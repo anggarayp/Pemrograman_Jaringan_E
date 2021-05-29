@@ -108,19 +108,3 @@ if __name__=="__main__":
 	print(j.get_inbox('messi'))
 	print("isi mailbox dari henderson")
 	print(j.get_inbox('henderson'))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
